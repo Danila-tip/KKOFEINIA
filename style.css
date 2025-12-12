@@ -1,0 +1,119 @@
+body {
+	background:linear-gradient(black,55%,#66442E,#866551); 
+	font-size:30px;
+	color: white;
+	font-family: "Sofia Sans Condensed", sans-serif;
+	margin:0
+	
+}
+header {
+	padding: 40px 400px 40px 50px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+header a {
+	color:black;
+	background-color: white;
+	text-decoration: none;
+	font-size: 30px;
+	border-radius: 10px;
+	margin-right: 30px;
+	padding: 10px;
+
+}
+main {
+}
+footer {
+	background-image:url("https://a-toy.ru/upload/iblock/05e/td2uudivwxuz9fjtbgb2yb5mhyjmkssn.jpg");
+	background-size:cover;
+	padding:50px;
+}
+footer div {
+	background-color:rgba(0,0,0,0.7);
+	width:500px;
+	height:430px;
+	padding:50px;
+}
+footer h3 {
+	text-align:center;
+	font-size:40;
+	color:yellow;
+	margin-top:0px;
+}
+.kind h2, .kind h3 {
+	color:yellow;
+}
+.kind {
+	display:flex;
+	justify-content:space-evenly;
+}
+.kind div {
+	width:33%;
+}
+.kind img {
+	margin-top:25px;
+	margin-bottom:25px;
+	max-width:100%;
+}
+.picture {
+	display:flex;
+}
+.picture img {
+	width:25%;
+	margin:0;
+	height:600px;
+}
+.cup {
+	width:100%;
+}
+.kafe {
+	display:flex;
+	text-align:center;
+}
+.kafe div {
+	width:33%
+}
+.good2 {
+	border-radius:50%;
+	width:200px;
+	height:200px;
+	margin-top:25%;
+}
+.menu {
+	padding-top: 50px;
+}
+.menu div {
+	display:flex;
+	justify-content:space-evenly;
+}
+.menu article {
+	width:21%;
+}
+.season div {
+	display:flex;
+	justify-content:space-evenly;
+	
+}
+
+.season p {
+	background-color:#926C51;
+	width: 30%;
+	padding:40px;
+	text-align:center;
+	align-items:center;
+	margin: 70px;
+}
+.season {
+	background-color:#D9D9D9;
+	padding-top: 50px;
+}
+.season h2{
+	margin-bottom: 30px;
+	text-align: center;
+}
+h3 {
+	font-size:150px;
+}
+
+	
